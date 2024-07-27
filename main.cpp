@@ -35,5 +35,4 @@ int main()
 	lin.ShowContent();
 	Quadratic qua(-1, 6, 7);
 	qua.ShowContent();
-	//finished
 }
